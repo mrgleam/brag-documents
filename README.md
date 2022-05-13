@@ -16,6 +16,14 @@ September 2022
 
 ## Projects
 
+### [Gleam](https://github.com/gleam-lang/gleam) is a friendly language for building type-safe, scalable systems! ✨
+
+**Contributions:** [Clear outdated files from the build directory after compilation](https://github.com/gleam-lang/gleam/pull/1578)
+  
+**Scope:** Tooling
+  
+**Impact:** Fix issue -> Removing .gleam files seems to not force them to be removed from build / gleam run continues to execute them [#1502](https://github.com/gleam-lang/gleam/issues/1502)
+
 ## Collaboration & mentorship
 
 ## Design & documentation
