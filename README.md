@@ -7,7 +7,8 @@ document](https://jvns.ca/blog/brag-documents/)
 
 [comment]: # (* List the major goals here!)
 
-* List the major goals here!
+September 2022
+* I want to take a course Mathematics for Working Programmers 2.0
 
 ## Goals for next year
 
