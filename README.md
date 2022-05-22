@@ -35,6 +35,6 @@ September 2022
 ## Outside of work
 
 * I have read a book called *เธอหรือฉัน ใครกันที่ TOXIC (TOXIC PEOPLE)*.
-* I have read a book called *ศิลปะการอยู่ร่วมกับคนเฮงซวย*.
+* I have read a book called *ศิลปะการอยู่ร่วมกับคนเฮงซวย (THE ASSHOLE SURVIVAL GUILD)*.
 
 ## General prompts
