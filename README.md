@@ -7,8 +7,11 @@ document](https://jvns.ca/blog/brag-documents/)
 
 [comment]: # (* List the major goals here!)
 
+June 2022
+* [ ] I want to take a course **How to Code: Simple Data**.
+
 September 2022
-* I want to take a course Mathematics for Working Programmers 2.0
+* [ ] I want to take a course **Mathematics for Working Programmers 2.0**.
 
 ## Goals for next year
 
@@ -34,8 +37,8 @@ September 2022
 
 ## Outside of work
 
-* [x] I have read a book called *เธอหรือฉัน ใครกันที่ TOXIC (TOXIC PEOPLE)*.
-* [x] I have read a book called *ศิลปะการอยู่ร่วมกับคนเฮงซวย (THE ASSHOLE SURVIVAL GUILD)*.
-* [ ] I have read a book called *เป็นคนอ่อนไหว ให้มีความสุข*.
+* [x] I have read a book called **เธอหรือฉัน ใครกันที่ TOXIC (TOXIC PEOPLE)**.
+* [x] I have read a book called **ศิลปะการอยู่ร่วมกับคนเฮงซวย (THE ASSHOLE SURVIVAL GUILD)**.
+* [ ] I have read a book called **เป็นคนอ่อนไหว ให้มีความสุข**.
 
 ## General prompts
