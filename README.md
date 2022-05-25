@@ -40,5 +40,6 @@ September 2022
 * [x] I have read a book called **เธอหรือฉัน ใครกันที่ TOXIC (TOXIC PEOPLE)**.
 * [x] I have read a book called **ศิลปะการอยู่ร่วมกับคนเฮงซวย (THE ASSHOLE SURVIVAL GUILD)**.
 * [x] I have read a book called **เป็นคนอ่อนไหว ให้มีความสุข**.
+* [ ] I have read a book called **วิธีเอาตัวรอด ในวงล้อมคนงี่เง่า (SURROUNDDED BY IDIOTS)**.
 
 ## General prompts
