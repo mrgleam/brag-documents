@@ -10,6 +10,9 @@ document](https://jvns.ca/blog/brag-documents/)
 June 2022
 * [ ] I want to take a course **How to Code: Simple Data**.
 
+July 2022
+* [ ] I want to continue a course **How to Code: Simple Data**.
+
 September 2022
 * [ ] I want to take a course **Mathematics for Working Programmers 2.0**.
 
