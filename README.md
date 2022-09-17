@@ -8,13 +8,17 @@ document](https://jvns.ca/blog/brag-documents/)
 [comment]: # (* List the major goals here!)
 
 June 2022
-* [ ] I want to take a course **How to Code: Simple Data**.
+* [x] I want to take a course **How to Code: Simple Data**.
 
 July 2022
-* [ ] I want to continue a course **How to Code: Simple Data**.
+* [x] I want to continue a course **How to Code: Simple Data**.
+
+August 2022
+* [x] I want to continue a course **How to Code: Simple Data**.
 
 September 2022
-* [ ] I want to take a course **Mathematics for Working Programmers 2.0**.
+* [x] I want to take a course **How to Code: Complex Data**.
+* [x] I want to take a course **Mathematics for Working Programmers 2.0**.
 
 ## Goals for next year
 
