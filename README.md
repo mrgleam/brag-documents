@@ -30,6 +30,8 @@ November 2022
 
 [comment]: # (* If it's getting towards the end of the year, maybe start writing down what might be the goals for next year.)
 
+* I want to learn Haskell (Haskell Programming from First Principles)
+
 ## Projects
 
 ### [Gleam](https://github.com/gleam-lang/gleam) is a friendly language for building type-safe, scalable systems! ✨
