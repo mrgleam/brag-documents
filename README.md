@@ -20,6 +20,12 @@ September 2022
 * [x] I want to take a course **How to Code: Complex Data**.
 * [x] I want to take a course **Mathematics for Working Programmers 2.0**.
 
+October 2022
+* [x] I want to take a course **How to Code: Complex Data**.
+
+November 2022
+* [x] I want to take a course **How to Code: Complex Data**.
+
 ## Goals for next year
 
 [comment]: # (* If it's getting towards the end of the year, maybe start writing down what might be the goals for next year.)
