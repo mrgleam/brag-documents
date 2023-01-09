@@ -1,4 +1,4 @@
-# Brag Documents 2022
+# Brag Documents
 
 Based on: [Get your work recognized: write a brag
 document](https://jvns.ca/blog/brag-documents/)
